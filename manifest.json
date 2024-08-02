@@ -1,8 +1,8 @@
 {
     "name": "LethalPosters",
     "version_number": "1.0",
-    "website_url": "https://github.com/BlueAntVR/PlatinumServer-Posters-And-Paintings",
-    "description": "custom paintings and posters from the platinum minecraft server. mostly inside jokes for my friends.",
+    "website_url": "https://github.com/BlueAnt-Studios/PlatinumServer-Posters",
+    "description": "custom posters from the platinum minecraft server. mostly inside jokes for my friends.",
     "dependencies": [
        
     ]
