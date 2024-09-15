@@ -1,9 +1,9 @@
 {
-    "name": "Platinum-Posters",
+    "name": "BlueAnt_Suits",
     "version_number": "1.0",
-    "website_url": "https://github.com/BlueAnt-Studios/PlatinumServer-Posters",
-    "description": "custom posters from the platinum minecraft server. mostly inside jokes for my friends.",
+    "website_url": "https://github.com/BlueAntVR/BlueAnt_Suits",
+    "description": "Custom suit colors for me and my friends using MoreSuits",
     "dependencies": [
-       "femboytv-LethalPosters-1.2.3"
+       "x753-More_Suits-1.4.3"
     ]
 }
