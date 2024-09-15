@@ -4,6 +4,7 @@
     "website_url": "https://github.com/BlueAntVR/BlueAnt_Suits",
     "description": "Custom suit colors for me and my friends using MoreSuits",
     "dependencies": [
-       "x753-More_Suits-1.4.3"
+       "BepInEx-BepInExPack-5.4.2100",
+            "x753-More_Suits-1.4.3"
     ]
 }
